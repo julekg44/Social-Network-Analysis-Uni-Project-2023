@@ -1,2 +1,6 @@
-# Social Network Analysis Uni Project 2023
- University project about the course of Social Network Analysis (SNA) A.Y. 2023 @University of Pisa
+# SNA23-project
+ Project repo for the Social Network Analysis 2023 course, University of Pisa.
+
+## Members
+__Students__: Claudio De Martino, Giuliano Galloppi, Isabel Santucci, Clara Lavorati.  
+  __Teachers__: Giulio Rossetti, Dino Pedreschi.
